@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 
 
 # TC001 장바구니 담기 기능 테스트
-
+# 이거는 쿠팡이 막혀서 테스트를 못해봤어요....
 
 class CartPage:
     ITEM_XPATH = "//a[contains(@class, 'search-product-link')"
