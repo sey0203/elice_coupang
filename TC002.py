@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.common.keys import Keys
 
 
-# TC001 장바구니 담기 기능 테스트
+# TC002 장바구니 담기 기능 테스트
 # 이거는 쿠팡이 막혀서 테스트를 못해봤어요....
 
 class CartPage:
